@@ -1,0 +1,3 @@
+﻿  bitonicSort_seriveparalelkarsilastirma.cpp
+C:\Users\lenovo\source\repos\DagitikSistemler3\DagitikSistemler3\bitonicSort_seriveparalelkarsilastirma.cpp(125,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  DagitikSistemler3.vcxproj -> C:\Users\lenovo\source\repos\DagitikSistemler3\Debug\DagitikSistemler3.exe
